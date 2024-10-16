@@ -1,0 +1,1 @@
+/home/zju/realsense_ws/template_pcd/Mech_mind_20_20ms_cut.pcd
